@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Word Counter Experience</string>
     <string name="question">Your text here</string>
+    <string name="countButton">Count the words</string>
 </resources>
