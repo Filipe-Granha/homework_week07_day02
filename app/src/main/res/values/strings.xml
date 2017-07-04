@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Word Counter</string>
+    <string name="app_name">Word Counter Experience</string>
+    <string name="question">Your text here</string>
 </resources>
