@@ -16,10 +16,13 @@ public class WordCounter {
     }
 
 
+
     public int countWords(String text) {
         wordCount = text.split(" ").length;
         return wordCount;
     }
+
+
 
 
 
